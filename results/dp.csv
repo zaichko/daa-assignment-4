@@ -1,0 +1,7 @@
+algorithm,n,avg_us,cell_updates
+LCS,100,81.3,10000
+EditDistance,100,82.9,10000
+LCS,500,2199.4,250000
+EditDistance,500,1997.3,250000
+LCS,1000,9105.1,1000000
+EditDistance,1000,10244.9,1000000
